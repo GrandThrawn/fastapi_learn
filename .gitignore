@@ -1,0 +1,4 @@
+venv
+task.db
+Dockerfile
+requirements.in
